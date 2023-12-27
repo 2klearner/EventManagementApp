@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "first_name": "Abishek",
+      "last_name": "S",
+      "email": "abishek10012001@gmail.com",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "first_name": "sandeep",
+      "last_name": "raj",
+      "email": "sandeep@s.s"
+    },
+    {
+      "first_name": "Bhargavi",
+      "last_name": "sure",
+      "email": "bhargavisure@gmail.com",
+      "id": 5
+    },
+    {
+      "id": 7,
+      "first_name": "sahithi",
+      "last_name": "pasula",
+      "email": "sahithi@s.s"
+    }
+  ]
+}
